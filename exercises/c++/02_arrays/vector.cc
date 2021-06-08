@@ -3,6 +3,15 @@
 #include<cmath>
 #include<vector>
 
+/**
+ * @file prime.cc
+ * @brief Implementation of primes and soe using vector
+ *
+ * @author Marco Franzon
+ * @date 13/05/21
+ *
+ */
+
 
 int is_prime(const int n){
 
