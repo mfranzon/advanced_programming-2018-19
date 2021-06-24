@@ -1,3 +1,7 @@
+__author__="Marco Franzon"
+__date__="21-05-21"
+
+
 class My_Range():
     def __init__(self, start, stop, step = 1):
         self.my_rng = range(start, stop, step)

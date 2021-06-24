@@ -1,3 +1,6 @@
+__author__="Marco Franzon"
+__date__="17-05-21"
+
 
 def is_palindrome(string_var):
     '''
